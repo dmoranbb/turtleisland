@@ -1,4 +1,5 @@
 Buy cookies
 Finish task on Jira
 Make some tea
+Learn some english poems for the next Git course
 
