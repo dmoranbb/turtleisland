@@ -2,4 +2,6 @@ Buy cookies
 Finish task on Jira
 Make some tea
 Learn some english poems for the next Git course
+Give a beer to the backend guys for their mastery with ALL the things
+And give candy to Frontend
 
